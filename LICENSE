@@ -1,0 +1,57 @@
+# MIT License
+
+Copyright (c) 2026 Tannu 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+---
+
+## Project Description
+
+This license applies to the **Tic Tac Toe Web Game**, a front-end web application developed using **HTML, CSS, and JavaScript**. The project is intended for educational, academic, and demonstration purposes and can be executed in any modern web browser using a code editor such as **Visual Studio Code (VS Code)**.
+
+---
+
+## Conditions of Use
+
+By using, copying, or modifying this project, you agree to the following conditions:
+
+1. The original author retains credit for the initial creation of the project.
+2. Any modified or redistributed versions must include this license file.
+3. The software may be used for personal, academic, or commercial purposes.
+4. The software may be modified to add features such as AI players, enhanced UI, or online multiplayer support.
+5. This license does not restrict the usage of the project in college submissions, portfolios, or GitHub repositories.
+
+---
+
+## Limitations
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## Liability Disclaimer
+
+The author shall not be held responsible for any direct or indirect damages arising from the use or inability to use this software. Users assume full responsibility for testing, deployment, and any modifications made to the project.
+
+---
+
+## Usage in Visual Studio Code
+
+* This project can be opened and edited using **Visual Studio Code**.
+* Users are free to run the project using Live Server or directly opening the HTML file in a browser.
+* Extensions or plugins used in VS Code do not affect the licensing of this project.
+
+---
+
+## Attribution Recommendation (Optional)
+
+While not mandatory, it is recommended to include attribution to the original developer when sharing or publishing the project:
+
+"Tic Tac Toe Web Game developed using HTML, CSS, and JavaScript."
+
+---
+
+This license ensures maximum freedom for users while protecting the original author from liability. It is suitable for open-source distribution and academic project submission.
