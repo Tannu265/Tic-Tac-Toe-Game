@@ -1,10 +1,8 @@
 # Tic-Tac-Toe-Game
-# Tic Tac Toe Web Game (HTML, CSS & JavaScript)
-
 
 <img width="1366" height="633" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/b01b3b72-9e69-42ae-a5c8-952e68bf3b0c" />
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a browser-based implementation of the classic **Tic Tac Toe** game, developed using **HTML, CSS, and JavaScript**. The game provides an interactive and user-friendly experience where two players can take turns playing on the same device. The project demonstrates core front-end development concepts such as DOM manipulation, event handling, responsive design, and basic game logic.
 
@@ -12,7 +10,7 @@ The application runs entirely on the client side, requires no external libraries
 
 ---
 
-## 🔴 Objectives
+## Objectives
 
 * To design and develop a simple yet engaging web-based game
 * To understand and apply JavaScript game logic and conditional statements
@@ -25,22 +23,22 @@ The application runs entirely on the client side, requires no external libraries
 ## Key Features
 
 * Two-Player Mode**: Allows two users to play alternately (Player X and Player O)
-* *Real-Time Game Updates**: Board updates instantly after each move
-* Win Detection**: Automatically detects winning combinations
-* Draw Detection**: Identifies tie situations when no moves remain
-* Game Reset Option**: Restart the game without refreshing the page
-* Responsive Design**: Works smoothly on desktops, tablets, and mobile devices
-* Clean UI**: Simple layout with clear visual feedback for players
+* Real-Time Game Updates: Board updates instantly after each move
+* Win Detection: Automatically detects winning combinations
+* Draw Detection: Identifies tie situations when no moves remain
+* Game Reset Option: Restart the game without refreshing the page
+* Responsive Design: Works smoothly on desktops, tablets, and mobile devices
+* Clean UI: Simple layout with clear visual feedback for players
 
 ---
 
-## 🛠 Tools and Technologies Used
+## Tools and Technologies Used
 
-* HTML5** – Structure and layout of the game board
-* CSS3** – Styling, layout design, and responsiveness
-* JavaScript (ES6)** – Game logic, user interaction, and DOM manipulation
-* Web Browser** – Chrome, Firefox, Edge, or any modern browser for execution
-* Code Editor** – VS Code / Sublime Text / Atom (optional)
+* HTML5 – Structure and layout of the game board
+* CSS3– Styling, layout design, and responsiveness
+* JavaScript (ES6) – Game logic, user interaction, and DOM manipulation
+* Web Browser – Chrome, Firefox, Edge, or any modern browser for execution
+* Code Editor – VS Code / Sublime Text / Atom (optional)
 
 ---
 
