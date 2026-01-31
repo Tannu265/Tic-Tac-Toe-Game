@@ -82,5 +82,5 @@ The Tic Tac Toe web game project is a beginner-friendly yet effective demonstrat
 
 ---
 
-#Author
+## Author
 Tannu Jha 
