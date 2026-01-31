@@ -79,3 +79,8 @@ No backend or database is required for this project.
 ## Conclusion
 
 The Tic Tac Toe web game project is a beginner-friendly yet effective demonstration of front-end web development skills. It highlights the use of core web technologies to build an interactive application while reinforcing logical thinking and UI design principles. This project serves as a strong foundation for developing more complex web-based games and applications in the future.
+
+---
+
+#Author
+Tannu Jha 
